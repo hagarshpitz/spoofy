@@ -92,7 +92,7 @@ const CreateNewSong = () => {
             reset();
         } 
     }
-console.log(allSongs)
+console.log(allSongs);
 
 
 const handleClickOpen = () => {

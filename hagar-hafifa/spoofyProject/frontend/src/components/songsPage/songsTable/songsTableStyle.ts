@@ -36,7 +36,9 @@ const useStyles = makeStyles()(() => ({
             border: 'none',
             borderRadius: '15px',
             backgroundColor: 'rgb(112, 106, 106)',
-            padding: '1rem 2rem'
+            padding: '1rem 2rem',
+            display: 'flex',
+            justifyContent: 'center'
         },
 
     },
